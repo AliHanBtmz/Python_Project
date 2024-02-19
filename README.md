@@ -1,1 +1,1 @@
-# I will share the pyhton projects here.
+# I will share the python projects here.
